@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+div{
+    margin:50px;
+}
+img{
+    margin:0px 25%;
+    text-align:center;
+    border:5px solid white;
+}
+h1{
+    font-size: 48px;
+    text-align:center;
+    color:white;
+    font-family:Libre Baskerville;
+}
+p{
+    text-align:center;
+    color:white;
+    font-size:20px;
+}
